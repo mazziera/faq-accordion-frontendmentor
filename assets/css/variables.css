@@ -1,0 +1,6 @@
+:root{
+    --main-container-color: hsl(0, 0%, 100%);
+    --text-color: hsl(292, 16%, 49%);
+    --title-color: hsl(292, 42%, 14%);
+    --background-color: hsl(275, 100%, 97%);
+}
