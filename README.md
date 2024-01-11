@@ -22,6 +22,7 @@
 Por se tratar de um desafio de um site em inglês resolvi codar em inglês, para praticar e manter o costume deste idioma. 
 
 ### O Desafio
+    O desafio consiste em construir uma sessão acordeão de perguntas e respostas mais frequentes dos usuários e fazê-lo parecer o mais próximo possível do design.
 
 Os usuários devem ser capazes de:
 
@@ -33,7 +34,6 @@ Os usuários devem ser capazes de:
 ### Screenshot
 
 ![](/assets/images/FAQ%20frontend%20mentor.gif)
-
 
 
 ## Links
@@ -48,7 +48,7 @@ Os usuários devem ser capazes de:
 - HTML5 Semantico
 - CSS3 responsivo
 - Flexbox
-- Javascript DOM
+- Javascript
 
 
 ### O que aprendi?
