@@ -5,6 +5,7 @@
 ## Sumário
 
 - [Visão geral](#visão-geral)
+  - [Nota](#Nota)
   - [O Desafio](#o-desafio)
   - [Screenshot](#screenshot)
 - [Links](#links)
@@ -17,6 +18,8 @@
 
 ## Visão Geral
 
+### Nota
+Por se tratar de um desafio de um site em inglês resolvi codar em inglês, para praticar e manter o costume deste idioma. 
 
 ### O Desafio
 
@@ -29,14 +32,14 @@ Os usuários devem ser capazes de:
 
 ### Screenshot
 
-![](./src/images/challenge-frontendMentor.gif)
+![](/assets/images/FAQ%20frontend%20mentor.gif)
 
 
 
 ## Links
 
-- Repositório:
-- Deploy: 
+- Repositório: https://github.com/mazziera/faq-accordion-frontendmentor/tree/main
+- Deploy: https://mazziera.github.io/faq-accordion-frontendmentor/
 
 ## Meu Processo
 
